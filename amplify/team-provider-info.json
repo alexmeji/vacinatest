@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-vacinatest-dev-235605-authRole",
+      "UnauthRoleArn": "arn:aws:iam::754055439635:role/amplify-vacinatest-dev-235605-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::754055439635:role/amplify-vacinatest-dev-235605-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-vacinatest-dev-235605-deployment",
+      "UnauthRoleName": "amplify-vacinatest-dev-235605-unauthRole",
+      "StackName": "amplify-vacinatest-dev-235605",
+      "StackId": "arn:aws:cloudformation:us-east-1:754055439635:stack/amplify-vacinatest-dev-235605/55f1d860-f839-11ec-b0c3-1231e463b7cd",
+      "AmplifyAppId": "djvn9d6qbvyfs"
+    }
+  }
+}
