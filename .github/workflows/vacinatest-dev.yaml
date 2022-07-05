@@ -15,4 +15,4 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Deploy
-        run: ./scripts/deploy.sh vacinatest develop
+        run: ./scripts/amplify-deploy.sh vacinatest develop
