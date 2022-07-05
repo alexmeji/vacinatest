@@ -10,7 +10,7 @@ jobs:
     strategy:
       matrix:
         node-version: [14.x]
-    setps:
+    steps:
       - uses: actions/checkout@v1
       - name: Setup Nodejs ${{ matrix.node-version }}
         uses: actions/setup-node@v1
