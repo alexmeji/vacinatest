@@ -16,6 +16,6 @@ jobs:
       - uses: actions/checkout@v2
       - name: Deploy
         run: |
-          chmod +x ./github/scripts/amplify-deploy.sh
-          ./github/scripts/amplify-deploy.sh vacinatest develop
+          chmod +x .github/scripts/amplify-deploy.sh
+          .github/scripts/amplify-deploy.sh vacinatest develop
         shell: bash
